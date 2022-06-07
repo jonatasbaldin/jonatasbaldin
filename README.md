@@ -15,5 +15,3 @@ While I'll keep my account active for work and checking open source, _my own_ pr
 The repositories I had on GitHub were quite stale, so I just saved a copy [here](https://codeberg.org/jonatasbaldin/old-code/). If necessary, I can move a project to its own repository.
 
 You can also find me at [jojo.garden](https://jojo.garden) and [mastodon](https://indieweb.social/web/@jonatasbaldin).
-
-> If you think about doing something simillar but are afraid about the consequences, please get in touch. I'd love to chat about it.

@@ -5,7 +5,7 @@
 - 🕊 [open-source-for-good](https://codeberg.org/jonatasbaldin/open-source-for-good): A list of open source projects and organizations trying to fix our broken world.
 
 ## Wait, where are your repositories on GitHub?
-Well, from the past while I've been [moving my digital life away from Big Tech](https://jojo.garden/notes/moving-away-from-big-tech/) and this includes GitHub.
+Well, from the past while I've been [moving my digital life away from Big Tech](https://jojo.garden/moving-away-from-big-tech/) and this includes GitHub.
 
 > Big Tech companies are profit-driven, massive scale, privacy intrusive and closed source. I want to break out of that. I want small scale, community-driven, cooperatives, privacy aware and open source solutions.
 

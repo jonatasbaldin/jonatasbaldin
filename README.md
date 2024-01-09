@@ -11,9 +11,6 @@ Well, from the past while I've been [moving my digital life away from Big Tech](
 
 While I'll keep my account active for work and checking open source, _my own_ projects will live on [Codeberg](https://codeberg.org/jonatasbaldin) – a democratic, community-driven and non-profit Gitea hosting platform.
 
-The repositories I had on GitHub were quite stale, so I just saved a copy [here](https://codeberg.org/jonatasbaldin/old-code/). If necessary, I can move a project to its own repository.
+I moved my GitHub repositories [here](https://codeberg.org/jonatasbaldin/old-code/). If necessary, I can move a project to its own repository.
 
 You can also find me at [jojo.garden](https://jojo.garden).
-
-## Read more:
-- [Give Up GitHub!](https://sfconservancy.org/GiveUpGitHub/)
